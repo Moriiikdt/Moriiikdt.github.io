@@ -184,12 +184,6 @@ hr {
 
 .closing { padding-bottom: 4px; }
 
-.footer-note {
-  margin-top: 34px;
-  color: var(--muted);
-  font-size: 12px;
-}
-
 @media (max-width: 680px) {
   .page {
     width: min(100% - 40px, var(--max-width));
